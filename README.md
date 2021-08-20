@@ -2,6 +2,7 @@
 
 This project was a brief exercise made for me to practice an Angular basic things, I hope than enjoys!!!!!! :3
 
+![image](https://user-images.githubusercontent.com/52796337/130170819-49552e29-5265-425e-b350-0b0b56df4d90.png)
 
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.1.3.
